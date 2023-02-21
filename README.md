@@ -26,4 +26,4 @@ To install in your system, follow the steps
 
      4. Paste emcc new.cpp -o mycpp.js -s EXPORTED\_FUNCTIONS="\['\_speedUpdate','\_fnOne','\_fnTwo'\]" -sEXPORTED\_RUNTIME\_METHODS="\['ccall'\]" to cmd line.
 
-     5. Open the index,html file at live server.
+     5. Open the index.html file at live server.
